@@ -1,0 +1,3 @@
+#avoid the extension and Licence file
+*.txt
+*.json
